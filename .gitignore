@@ -1,0 +1,108 @@
+# From https://github.com/github/gitignore/blob/master/Gradle.gitignore
+/java/kafka-beginners-course/.gradle
+/java/kafka-beginners-course/build/
+
+# Ignore Gradle GUI config
+/java/kafka-beginners-course/gradle-app.setting
+
+# Cache of project
+/java/kafka-beginners-course/.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+
+
+
+# From https://github.com/github/gitignore/blob/master/Java.gitignore
+/java/kafka-beginners-course/*.class
+
+# Mobile Tools for Java (J2ME)
+/java/kafka-beginners-course/.mtj.tmp/
+
+# Package Files #
+/java/kafka-beginners-course/*.jar
+/java/kafka-beginners-course/*.war
+/java/kafka-beginners-course/*.ear
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+/java/kafka-beginners-course/!gradle-wrapper.jar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+/java/kafka-beginners-course/hs_err_pid*
+
+
+# From https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+/java/kafka-beginners-course/.idea/
+/java/kafka-beginners-course/.idea/workspace.xml
+/java/kafka-beginners-course/.idea/tasks.xml
+/java/kafka-beginners-course/.idea/dictionaries
+/java/kafka-beginners-course/.idea/vcs.xml
+/java/kafka-beginners-course/.idea/jsLibraryMappings.xml
+
+# Sensitive or high-churn files:
+/java/kafka-beginners-course/.idea/dataSources.ids
+/java/kafka-beginners-course/.idea/dataSources.xml
+/java/kafka-beginners-course/.idea/dataSources.local.xml
+/java/kafka-beginners-course/.idea/sqlDataSources.xml
+/java/kafka-beginners-course/.idea/dynamic.xml
+/java/kafka-beginners-course/.idea/uiDesigner.xml
+
+# Gradle:
+/java/kafka-beginners-course/.idea/gradle.xml
+/java/kafka-beginners-course/.idea/libraries
+
+# Mongo Explorer plugin:
+/java/kafka-beginners-course/.idea/mongoSettings.xml
+
+## File-based project format:
+/java/kafka-beginners-course/*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/java/kafka-beginners-course/kafka-basics/out/
+java/kafka-beginners-course/kafka-basics/build/
+
+# mpeltonen/sbt-idea plugin
+/java/kafka-beginners-course/.idea_modules/
+
+# JIRA plugin
+/java/kafka-beginners-course/atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+/java/kafka-beginners-course/com_crashlytics_export_strings.xml
+/java/kafka-beginners-course/crashlytics.properties
+/java/kafka-beginners-course/crashlytics-build.properties
+/java/kafka-beginners-course/fabric.properties
+
+
+/java/kafka-beginners-course/*.DS_Store
+/java/kafka-beginners-course/.AppleDouble
+/java/kafka-beginners-course/.LSOverride
+
+# Icon must end with two \r
+/java/kafka-beginners-course/Icon
+
+
+# Thumbnails
+/java/kafka-beginners-course/._*
+
+# Files that might appear in the root of a volume
+/java/kafka-beginners-course/.DocumentRevisions-V100
+/java/kafka-beginners-course/.fseventsd
+/java/kafka-beginners-course/.Spotlight-V100
+/java/kafka-beginners-course/.TemporaryItems
+/java/kafka-beginners-course/.Trashes
+/java/kafka-beginners-course/.VolumeIcon.icns
+/java/kafka-beginners-course/.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+/java/kafka-beginners-course/.AppleDB
+/java/kafka-beginners-course/.AppleDesktop
+/java/kafka-beginners-course/Network Trash Folder
+/java/kafka-beginners-course/Temporary Items
+/java/kafka-beginners-course/.apdisk
