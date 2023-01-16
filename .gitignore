@@ -67,6 +67,7 @@
 /java/kafka-beginners-course/kafka-basics/out/
 java/kafka-beginners-course/kafka-basics/build/
 /java/kafka-beginners-course/kafka-producer-wikimedia/out/
+/java/kafka-beginners-course/kafka-consumer-opensearch/out/
 
 # mpeltonen/sbt-idea plugin
 /java/kafka-beginners-course/.idea_modules/
